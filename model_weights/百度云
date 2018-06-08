@@ -1,0 +1,8 @@
+1. offical_pretrained_wegths:
+链接: https://pan.baidu.com/s/16pLq9kqTGsR-4_CYUXADIQ 密码: e6mf
+
+2. 自己训练的
+链接: https://pan.baidu.com/s/1XVx_l_VtyBmx0nj29fMXzA 密码: fe36
+    - model1	densenet169_finetune+线下线上数据强化
+    - model2	densenet169_finetune+focal_loss+线下线上数据强化
+    - model3	densenet169_finetune+focal_loss+额外新增数据+线下线上数据强化
