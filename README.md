@@ -54,11 +54,11 @@
 
 #### 三.运行方式
 
-1. 运行train_valid_split.py,得到split_train.txt和split_valid.txt
-2. 运行generate_data_for_flow.py,得到train_for_flow和valid_for_flow两个文件夹(for keras .flow_from_directory)
-3. 运行crop_pics.py,对train中的所有图片进行切边
-4. 运行datagenerator_for_trainForFlow.py, 对train_for_flow文件夹下的所有图片进行线下增强
-5. 运行主程序finetune.py进行模型的训练以及预测
+- 运行train_valid_split.py,得到split_train.txt和split_valid.txt
+- 运行generate_data_for_flow.py,得到train_for_flow和valid_for_flow两个文件夹(for keras .flow_from_directory)
+- 运行crop_pics.py,对train中的所有图片进行切边
+- 运行datagenerator_for_trainForFlow.py, 对train_for_flow文件夹下的所有图片进行线下增强
+- 运行主程序finetune.py进行模型的训练以及预测
 
 ## 初赛总结
 - 发现比赛的时候已经是6月1号了，下单1080卡然后等卡到, 正式开始是在3号左右，初赛8号截止，所有有点仓促. 
